@@ -108,8 +108,8 @@ Make sure you have:
 ### **1. Clone the Repository**
 
 ```bash
-https://github.com/PratikDevelops/CarRental-fullstack.git
-cd CarRental-fullstack
+git clone https://github.com/shashwatjha17/Car-Rental-booking-system.git
+cd Car-Rental-booking-system
 ```
 
 ### **2. Install Frontend Dependencies**
